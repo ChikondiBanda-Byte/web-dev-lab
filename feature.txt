@@ -1,0 +1,1 @@
+learned how to use git from the git bash and how to use pull requests on the github website 
